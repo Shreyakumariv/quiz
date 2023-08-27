@@ -1,0 +1,19 @@
+.select-ans {
+    width: 90%;
+    line-height: 4rem;
+    background-color: rgb(243, 241, 238);
+    color: black;
+    margin: 1rem;
+    font-size: 2rem;
+    border: 1px solid blue;
+}
+
+.select-ans:hover {
+    background-color: rgb(255, 65, 204);
+    color: rgb(223, 223, 223);
+}
+
+.select-ans:active {
+    background-color: rgb(29, 169, 19);
+    color: rgb(223, 223, 223);
+}
